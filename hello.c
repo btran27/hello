@@ -12,8 +12,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Brian & Sean Yeehaw\n");
-  printf("My major is Computer Engineering and Sean's major is undeclared");
-
+  printf("Brian\n");
+  printf("My major is Computer Engineering\n");
+  printf("Sean\n");
+  printf("I'm undeclared but my major is most likely going to be computer science\n");
   return 0;
 }
